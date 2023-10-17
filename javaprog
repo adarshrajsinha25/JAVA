@@ -1,18 +1,5 @@
 
 
-class GFG{
-
-// Function to return minimum
-// Element between two values
-public static int min(int x, int y) 
-{ 
-	return (x < y) ? x : y; 
-}
-
-// Utility function for calculating
-// Minimum element to delete
-public static int utility_fun_for_del(String str, 
-									int i, int j)
 
 
 // Function to calculate the minimum
