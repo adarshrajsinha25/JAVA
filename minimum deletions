@@ -10,5 +10,3 @@ Output : 2
 Remove characters 'e' and 'd'
 Resultant string will be 'abcba'
 which is a palindromic string
-Input : geeksforgeeks
-Output : 8
